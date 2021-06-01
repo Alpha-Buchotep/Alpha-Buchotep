@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Alpha-Buchotep/Alpha-Buchotep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Programming / markkup lannguage:
+`php, asp, javascript, html, css, vb6, vb.net, lua, AS2 / AS3, Lingo`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Webservers:
+`eNGINeX, IIS, Tomcat, Lighttpd, Apache`
+
+
+#### OS:
+`Linux (CentOS, Mint, Ubuntu, Kali/Backtrack), Windows 3.11-W2K19, macOS 7.6.1-BigSur`
+
+
+#### Music:
+`Yamaha synth, Reason, Omnisphere, Roland Collection, Cubase + tons of VST plugins`
+
+
+#### Video:
+`Blackmagic Desing Intensity Shuttle, DeckLink Studio 4K, DaVinci Resolve Studio, Adobe Premiere, After Effects`
+
+
+#### Graphic:
+`Adobe Photoshop, Indesign, Illustrator, Gimp, XnView MP`
+
+
+#### Streaming:
+`Mona Server, OBS Studio, VLC`
