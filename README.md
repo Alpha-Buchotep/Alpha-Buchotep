@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### Programming / markkup lannguage:
-`php, asp, javascript, html, css, vb6, vb.net, lua, AS2 / AS3, Lingo`
+#### Programming / markkup lannguage / frameworks:
+`php, asp, javascript, html, css, vb6, vb.net, lua, AS2 / AS3, Lingo, JQuery, Bootstrap, nodejs`
 
 
 #### Webservers:
