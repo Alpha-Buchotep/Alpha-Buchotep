@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Programming / markkup lannguage / frameworks:
+#### Programming / markkup language / frameworks:
 `php, asp, javascript, html, css, vb6, vb.net, lua, AS2 / AS3, Lingo, JQuery, Bootstrap, nodejs`
 
 
