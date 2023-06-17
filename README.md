@@ -1,8 +1,14 @@
 ## Welcome to my profile page! 👋
 
-Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1040STF | Power Macintosh 6100/60AV | x86-64 PC | Mac
 
-### LANGUAGES
+**My computers evolution:**
+
+Sinclair ZX81 &#10054; Sinclair ZX Spectrum &#10054; Commodore 64 &#10054; Commodore Amiga
+
+Atarti 1040STF &#10054; Power Macintosh 6100/60AV &#10054; x86-64 PC &#10054; Mac
+
+
+#### LANGUAGES
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,7 +25,7 @@ Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
-### FRAMEWORK / PLATFORMS / LIBRARIES / AI
+#### FRAMEWORK / PLATFORMS / LIBRARIES / AI
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,13 +40,13 @@ Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-### IDEs / EDITORs
+#### IDEs / EDITORs
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### DATABASES
+#### DATABASES
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -50,7 +56,7 @@ Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### OS
+#### OS
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
@@ -68,7 +74,7 @@ Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-### ADOBE
+#### ADOBE
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
@@ -81,13 +87,14 @@ Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-### SERVERS
+#### SERVERS
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-### VERSION CONTROL
+#### VERSION CONTROL
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
