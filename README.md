@@ -1,5 +1,7 @@
 ## Welcome to my profile page! 👋
 
+Sinclair ZX81 | Sinclair ZX Spectrum | Commodore 64 | Commodore Amiga | Atarti 1040STF | Power Macintosh 6100/60AV | x86-64 PC | Mac
+
 ### LANGUAGES
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
