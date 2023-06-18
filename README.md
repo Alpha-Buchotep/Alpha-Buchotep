@@ -5,7 +5,7 @@
 
 Sinclair ZX81 &#10054; Sinclair ZX Spectrum &#10054; Commodore 64 &#10054; Commodore Amiga
 
-Atarti 1040STF &#10054; Power Macintosh 6100/60AV &#10054; x86-64 PC &#10054; Mac
+Atari 1040STF &#10054; Power Macintosh 6100/60AV &#10054; x86-64 PC &#10054; Mac
 
 
 #### LANGUAGES
